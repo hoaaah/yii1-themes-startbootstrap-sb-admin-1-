@@ -1,5 +1,4 @@
 #yii1 themes
-yii1-themes
 
 This is my attempt to create yii1 themes as my contribution to yii1 community.
 I create themes from scratch or convert from any available templates from other community (like bootstrap community in www.bootsnipp.com ,here is my bootsnip profile www.bootsnipp.com/hoaaah ) and convert it to yii1 themes.
